@@ -49,6 +49,3 @@ $(document).ready(function() {
       ]
 });
 });
-
-$('.slider').children('.slick-slide').css('opacity', 0.1);
-$('.slider').children('.slick-slide.slick-active').last().css('opacity', 0.1);
